@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hello! 👋🏻
 
 Hi, I'm Crew, currently a senior studying computer science at the University of Missouri-Columbia. I have several years of experience in both front-end and back-end development, and I am currently pursuing more experience in software engineering!
 
