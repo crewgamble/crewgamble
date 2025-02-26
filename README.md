@@ -1,6 +1,6 @@
 # Hello! 👋🏻
 
-Hi, I'm Crew, currently a senior studying computer science at the University of Missouri-Columbia. I have several years of experience in both front-end and back-end development, and I am currently pursuing more experience in software engineering!
+Hi, I'm Crew, currently a professional web devloper creating sites at St. Louis Digital Media. I have several years of experience in both front-end and back-end development, and I am currently pursuing more experience in software engineering!
 
 ## Projects:
 ### [Daily Doodle](https://github.com/crewgamble/Daily-Doodle)
