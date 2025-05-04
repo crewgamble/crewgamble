@@ -9,9 +9,6 @@ Daily Doodle is a for fun web app that allows users to draw a daily prompt on a 
 ### [Mushroom Classifcation Neural Net](https://github.com/crewgamble/Mushroom-Neural-net)
 This project contains the implementation of a simple neural network model designed to classify mushrooms into either edible or poisonous categories based on 22 different features. Works with 100% accuracy!
 
-### [Cute Crypto](https://github.com/crewgamble/Cute-Crypto)
-Cute Crypto is a responsive react website that demonstrates a potential crypto/NFT project homepage.
-
 ### [Wine Quality Neural Net](https://github.com/crewgamble/Wine-Quality-Neural-Net)
 This repository uses a neural network to predict the quality of wine based on various physicochemical features. 
 
